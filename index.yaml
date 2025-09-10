@@ -2,8 +2,17 @@ apiVersion: v1
 entries:
   aiplan:
   - apiVersion: v2
+    appVersion: v1.0.2
+    created: "2025-09-10T12:40:08.64977+03:00"
+    description: AIPlan - An open-source project management system
+    digest: 3d3b0968850f04783c38abd1bf75f5d83af4143b8cfe32d4253434af39da2cef
+    name: aiplan
+    urls:
+    - deploy/aiplan-v1.0.2.tgz
+    version: v1.0.2
+  - apiVersion: v2
     appVersion: v1.0.1
-    created: "2025-09-10T10:29:28.707468+03:00"
+    created: "2025-09-10T12:40:08.649278+03:00"
     description: AIPlan - An open-source project management system
     digest: 98a992e581ff087daf1d38772e27ac616644c64614bee1cea73aeb9dca5690ee
     name: aiplan
@@ -12,11 +21,11 @@ entries:
     version: v1.0.1
   - apiVersion: v2
     appVersion: v1.0.0
-    created: "2025-09-10T10:29:28.706709+03:00"
+    created: "2025-09-10T12:40:08.648428+03:00"
     description: AIPlan - An open-source project management system
     digest: 8bbb9b1d566bbab85af46ba6e00cd761930c14cf267ffe9a41950eb41e055cb5
     name: aiplan
     urls:
     - deploy/aiplan-v1.0.0.tgz
     version: v1.0.0
-generated: "2025-09-10T10:29:28.705755+03:00"
+generated: "2025-09-10T12:40:08.647651+03:00"
