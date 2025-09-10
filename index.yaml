@@ -3,11 +3,11 @@ entries:
   aiplan:
   - apiVersion: v2
     appVersion: v1.0.0
-    created: "2025-09-10T10:07:58.217186+03:00"
+    created: "2025-09-10T10:12:03.416653+03:00"
     description: AIPlan - An open-source project management system
     digest: 8bbb9b1d566bbab85af46ba6e00cd761930c14cf267ffe9a41950eb41e055cb5
     name: aiplan
     urls:
-    - .deploy/aiplan-v1.0.0.tgz
+    - deploy/aiplan-v1.0.0.tgz
     version: v1.0.0
-generated: "2025-09-10T10:07:58.216671+03:00"
+generated: "2025-09-10T10:12:03.416031+03:00"
