@@ -2,8 +2,17 @@ apiVersion: v1
 entries:
   aiplan:
   - apiVersion: v2
+    appVersion: v1.2.2
+    created: "2026-01-20T17:55:40.593647+03:00"
+    description: AIPlan - An open-source project management system
+    digest: b202acd990f6abfafa084a5c319be1b533e15c84d470c3c3fc94f594eaa52ac8
+    name: aiplan
+    urls:
+    - deploy/aiplan-v1.2.2.tgz
+    version: v1.2.2
+  - apiVersion: v2
     appVersion: v1.0.4
-    created: "2025-09-19T10:42:18.245059+03:00"
+    created: "2026-01-20T17:55:40.588671+03:00"
     description: AIPlan - An open-source project management system
     digest: 34d43206db4e6c151a4451a14a04ad6626270aa7970732d1db713c975a00bdfc
     name: aiplan
@@ -12,7 +21,7 @@ entries:
     version: v1.0.4
   - apiVersion: v2
     appVersion: v1.0.3
-    created: "2025-09-19T10:42:18.243589+03:00"
+    created: "2026-01-20T17:55:40.587176+03:00"
     description: AIPlan - An open-source project management system
     digest: faee64a03730861f4dc9b6bba9ddca63efd12a9f3692b1ee113d2a7e7cf19bdc
     name: aiplan
@@ -21,7 +30,7 @@ entries:
     version: v1.0.3
   - apiVersion: v2
     appVersion: v1.0.2
-    created: "2025-09-19T10:42:18.241281+03:00"
+    created: "2026-01-20T17:55:40.585983+03:00"
     description: AIPlan - An open-source project management system
     digest: 3d3b0968850f04783c38abd1bf75f5d83af4143b8cfe32d4253434af39da2cef
     name: aiplan
@@ -30,7 +39,7 @@ entries:
     version: v1.0.2
   - apiVersion: v2
     appVersion: v1.0.1
-    created: "2025-09-19T10:42:18.240215+03:00"
+    created: "2026-01-20T17:55:40.585239+03:00"
     description: AIPlan - An open-source project management system
     digest: 98a992e581ff087daf1d38772e27ac616644c64614bee1cea73aeb9dca5690ee
     name: aiplan
@@ -39,11 +48,11 @@ entries:
     version: v1.0.1
   - apiVersion: v2
     appVersion: v1.0.0
-    created: "2025-09-19T10:42:18.239325+03:00"
+    created: "2026-01-20T17:55:40.583781+03:00"
     description: AIPlan - An open-source project management system
     digest: 8bbb9b1d566bbab85af46ba6e00cd761930c14cf267ffe9a41950eb41e055cb5
     name: aiplan
     urls:
     - deploy/aiplan-v1.0.0.tgz
     version: v1.0.0
-generated: "2025-09-19T10:42:18.238558+03:00"
+generated: "2026-01-20T17:55:40.58292+03:00"
