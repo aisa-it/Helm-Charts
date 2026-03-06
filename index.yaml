@@ -3,7 +3,7 @@ entries:
   aiplan:
   - apiVersion: v2
     appVersion: v1.2.6
-    created: "2026-03-06T10:11:04.454363262+03:00"
+    created: "2026-03-06T10:12:01.635338192+03:00"
     description: AIPlan - An open-source project management system
     digest: 195601aae170ad0afc0968bb4cb78e0bb66d033321e8363e047a1f5329e31fee
     name: aiplan
@@ -11,8 +11,44 @@ entries:
     - deploy/aiplan-v1.2.6.tgz
     version: v1.2.6
   - apiVersion: v2
+    appVersion: v1.2.5
+    created: "2026-03-06T10:12:01.634901542+03:00"
+    description: AIPlan - An open-source project management system
+    digest: a5faac4eee5d2ce3150c9352d7750f49740a1715df63377324dc7ef08648dc27
+    name: aiplan
+    urls:
+    - deploy/aiplan-v1.2.5.tgz
+    version: v1.2.5
+  - apiVersion: v2
+    appVersion: v1.2.4
+    created: "2026-03-06T10:12:01.634551595+03:00"
+    description: AIPlan - An open-source project management system
+    digest: 800491a34dc6f2955acea7785d47c37213756fbf9ef5818892630d71c4697bfd
+    name: aiplan
+    urls:
+    - deploy/aiplan-v1.2.4.tgz
+    version: v1.2.4
+  - apiVersion: v2
+    appVersion: v1.2.3
+    created: "2026-03-06T10:12:01.634245701+03:00"
+    description: AIPlan - An open-source project management system
+    digest: bf322e4f05dbe5b8eefe26e0770a23ba3ef983d3a0cd9cb678877c98b8e8665e
+    name: aiplan
+    urls:
+    - deploy/aiplan-v1.2.3.tgz
+    version: v1.2.3
+  - apiVersion: v2
+    appVersion: v1.2.2
+    created: "2026-03-06T10:12:01.632441044+03:00"
+    description: AIPlan - An open-source project management system
+    digest: b202acd990f6abfafa084a5c319be1b533e15c84d470c3c3fc94f594eaa52ac8
+    name: aiplan
+    urls:
+    - deploy/aiplan-v1.2.2.tgz
+    version: v1.2.2
+  - apiVersion: v2
     appVersion: v1.2.1
-    created: "2026-03-06T10:11:04.454065432+03:00"
+    created: "2026-03-06T10:12:01.63096297+03:00"
     description: AIPlan - An open-source project management system
     digest: 3ccb2ba9d3c287c9d6a5478f7bd2125136dd67694345196601945fbba5ca2932
     name: aiplan
@@ -21,7 +57,7 @@ entries:
     version: v1.2.1
   - apiVersion: v2
     appVersion: v1.2.0
-    created: "2026-03-06T10:11:04.453805273+03:00"
+    created: "2026-03-06T10:12:01.630686151+03:00"
     description: AIPlan - An open-source project management system
     digest: 5a28d756cf5aafaf2eae9a4631e6af4cd11ea884a9c0b62b35a4593932f4770a
     name: aiplan
@@ -30,7 +66,7 @@ entries:
     version: v1.2.0
   - apiVersion: v2
     appVersion: v1.1.2
-    created: "2026-03-06T10:11:04.453534924+03:00"
+    created: "2026-03-06T10:12:01.630367392+03:00"
     description: AIPlan - An open-source project management system
     digest: a908e06148697b24b4a10f9d34c33ff7f1b326d1c05a36bcdc044aef6ed76a25
     name: aiplan
@@ -39,7 +75,7 @@ entries:
     version: v1.1.2
   - apiVersion: v2
     appVersion: v1.1.1
-    created: "2026-03-06T10:11:04.45327177+03:00"
+    created: "2026-03-06T10:12:01.6301052+03:00"
     description: AIPlan - An open-source project management system
     digest: a357830f6f36f4e51437a351a0ac85655a5ab28f17fe579217b16685ca5ba96c
     name: aiplan
@@ -48,7 +84,7 @@ entries:
     version: v1.1.1
   - apiVersion: v2
     appVersion: v1.1.0
-    created: "2026-03-06T10:11:04.452943382+03:00"
+    created: "2026-03-06T10:12:01.629842487+03:00"
     description: AIPlan - An open-source project management system
     digest: 60c39adf26e609179dd94d2f5e71b761ef434fab63d7b644d94bfc17b2bd47df
     name: aiplan
@@ -57,7 +93,7 @@ entries:
     version: v1.1.0
   - apiVersion: v2
     appVersion: v1.0.6
-    created: "2026-03-06T10:11:04.452681009+03:00"
+    created: "2026-03-06T10:12:01.629581858+03:00"
     description: AIPlan - An open-source project management system
     digest: 9cc29dd564bbaee75ab6c7d5103a3907ebca3fa9ad4bada2840849b0003230f3
     name: aiplan
@@ -66,7 +102,7 @@ entries:
     version: v1.0.6
   - apiVersion: v2
     appVersion: v1.0.5
-    created: "2026-03-06T10:11:04.45243137+03:00"
+    created: "2026-03-06T10:12:01.629260364+03:00"
     description: AIPlan - An open-source project management system
     digest: 96567bda00904495b59832c8dcfbdcea3384269ead8d4b2399d0778e102a1e98
     name: aiplan
@@ -75,7 +111,7 @@ entries:
     version: v1.0.5
   - apiVersion: v2
     appVersion: v1.0.4
-    created: "2026-03-06T10:11:04.45214417+03:00"
+    created: "2026-03-06T10:12:01.629013671+03:00"
     description: AIPlan - An open-source project management system
     digest: 34d43206db4e6c151a4451a14a04ad6626270aa7970732d1db713c975a00bdfc
     name: aiplan
@@ -84,7 +120,7 @@ entries:
     version: v1.0.4
   - apiVersion: v2
     appVersion: v1.0.3
-    created: "2026-03-06T10:11:04.450809751+03:00"
+    created: "2026-03-06T10:12:01.627738508+03:00"
     description: AIPlan - An open-source project management system
     digest: faee64a03730861f4dc9b6bba9ddca63efd12a9f3692b1ee113d2a7e7cf19bdc
     name: aiplan
@@ -93,7 +129,7 @@ entries:
     version: v1.0.3
   - apiVersion: v2
     appVersion: v1.0.2
-    created: "2026-03-06T10:11:04.450185137+03:00"
+    created: "2026-03-06T10:12:01.627080783+03:00"
     description: AIPlan - An open-source project management system
     digest: 3d3b0968850f04783c38abd1bf75f5d83af4143b8cfe32d4253434af39da2cef
     name: aiplan
@@ -102,7 +138,7 @@ entries:
     version: v1.0.2
   - apiVersion: v2
     appVersion: v1.0.1
-    created: "2026-03-06T10:11:04.449794973+03:00"
+    created: "2026-03-06T10:12:01.62667956+03:00"
     description: AIPlan - An open-source project management system
     digest: 98a992e581ff087daf1d38772e27ac616644c64614bee1cea73aeb9dca5690ee
     name: aiplan
@@ -111,11 +147,11 @@ entries:
     version: v1.0.1
   - apiVersion: v2
     appVersion: v1.0.0
-    created: "2026-03-06T10:11:04.449348684+03:00"
+    created: "2026-03-06T10:12:01.626214147+03:00"
     description: AIPlan - An open-source project management system
     digest: 8bbb9b1d566bbab85af46ba6e00cd761930c14cf267ffe9a41950eb41e055cb5
     name: aiplan
     urls:
     - deploy/aiplan-v1.0.0.tgz
     version: v1.0.0
-generated: "2026-03-06T10:11:04.44899532+03:00"
+generated: "2026-03-06T10:12:01.625876223+03:00"
